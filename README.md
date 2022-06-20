@@ -5,5 +5,3 @@ Link para acessar o Case no Figma:
 Protótipos -> https://www.figma.com/proto/SzQWQ89PmgFk3H2JJ4KYjI/Case---Trevo-Digital?page-id=2%3A3&node-id=147%3A6904&viewport=318%2C212%2C0.06&scaling=min-zoom&starting-point-node-id=151%3A6931&show-proto-sidebar=1
 
 Componentes e Estrutura -> https://www.figma.com/file/SzQWQ89PmgFk3H2JJ4KYjI/Case---Trevo-Digital?node-id=19%3A4
-
-Apresentação -> https://docs.google.com/presentation/d/1BqmRkvS8oCTXViEwM6PwIS6PvNI0NgDF0DN1DTN_pr0/edit?usp=sharing
